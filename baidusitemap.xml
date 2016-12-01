@@ -3,24 +3,30 @@
 
 
     
-    
-    
-    
-    
-    
-    
   <url>
     <loc>https://lc4t.github.io/2016-12-01-hello-world/</loc>
-    <lastmod>2016-11-30T16:43:18.000Z</lastmod>
+    <lastmod>2016-12-01T17:22:12.000Z</lastmod>
     <data>
         <display>
         <title>Hello World</title>
         <pubTime>2016-11-30T16:43:18.000Z</pubTime>
         
+        <tag>test</tag>
+         
          
            
+             
+              <breadCrumb title="test" url="https://lc4t.github.io/categories/test/"/>
+          
         </display>
     </data>
     </url>
 
+    
+    
+    
+    
+    
+    
+    
 </urlset>
