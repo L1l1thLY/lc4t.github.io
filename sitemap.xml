@@ -2,14 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lc4t.github.io/game/index.html</loc>
+    <loc>https://lc4t.github.io/categories/index.html</loc>
+    
+    <lastmod>2016-12-01T17:10:54.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lc4t.github.io/tags/index.html</loc>
+    
+    <lastmod>2016-12-01T17:09:05.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lc4t.github.io/friendslinks/index.html</loc>
     
     <lastmod>2016-12-01T15:20:16.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://lc4t.github.io/friendslinks/index.html</loc>
+    <loc>https://lc4t.github.io/game/index.html</loc>
     
     <lastmod>2016-12-01T15:20:16.000Z</lastmod>
     
